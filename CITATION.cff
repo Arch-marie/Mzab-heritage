@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "M'Zab Heritage Observatory: AI tools for protecting and valorizing the urban heritage of the M'Zab Valley"
+authors:
+  - family-names: Derbali
+    given-names: Meriem
+    affiliation: "Ziane Achour University, Djelfa, Algeria"
+  - family-names: Malki
+    given-names: Salah
+    affiliation: "Ziane Achour University, Djelfa, Algeria"
+version: "1.0"
+date-released: 2026-10-07
+license: CC-BY-4.0
+keywords:
+  - cultural heritage
+  - M'Zab Valley
+  - artificial intelligence
+  - damage detection
+  - change detection
+references:
+  - type: article
+    title: "Surface Damage Identification for Heritage Site Protection: A Mobile Crowd-sensing Solution Based on Deep Learning"
+    authors:
+      - family-names: Meklati
+        given-names: Safia
+      - family-names: Boussora
+        given-names: Kenza
+      - family-names: Abdi
+        given-names: Mohamed El Hafedh
+      - family-names: Berrani
+        given-names: Sid-Ahmed
+    journal: "ACM Journal on Computing and Cultural Heritage"
+    volume: 16
+    issue: 2
+    year: 2023
+    doi: 10.1145/3569093
